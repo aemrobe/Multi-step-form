@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/multistepform-qVwSvIaMNs)
-- Live Site URL: [live site URL](https://aemrobe.github.io/Multi-step-form-challenge/)
+- Live Site URL: [live site URL](https://aemrobe.github.io/Multi-step-form/)
 
 ## My process
 
